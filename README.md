@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anil Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Beloved Letters**
+- 🔭 I’m currently working on **Motilal Oswal AMC Datalake**
 
 - 💬 Ask me about **React, React Native, Redux, JavaScript**
 
