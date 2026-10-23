@@ -1,8 +1,8 @@
 # Hi 👋, I'm Anil Kumar Yadav
 
-### Software Engineer | React.js | JavaScript | TypeScript | Node.js
+### Software Engineer | React.js | JavaScript | TypeScript | Node.js | Java | Spring Boot | Microservices
 
-I'm a **Software Engineer with 4+ years of experience** building scalable web and mobile applications using **React.js, React Native, JavaScript, TypeScript, Redux Toolkit, Node.js, and Express.js**.
+I'm a **Software Engineer with 4+ years of experience** building scalable web and mobile applications using **React.js, React Native, JavaScript, TypeScript, Redux Toolkit, Node.js, and Express.js, Java, Spring Boot, Micorservices**.
 
 Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise financial applications for Investor and Distributor platforms.
 
@@ -10,7 +10,7 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 
 * 🔭 Currently working on **Motilal Oswal AMC Datalake**
 * 💻 Building scalable applications using **React.js, TypeScript, Redux Toolkit, and TanStack Query**
-* 🔧 Working with **Node.js, Express.js, REST APIs, and MongoDB**
+* 🔧 Working with **Node.js, Express.js, Java, Spring boot, microservices, REST APIs, and MongoDB**
 * 🧩 Building reusable components, complex forms, API integrations, and scalable application architectures
 
 ### 🛠️ Tech Stack
@@ -35,6 +35,10 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 
 **Backend**
 
+* Java
+* Spring Boot
+* Multithreading
+* Microservices
 * Node.js
 * Express.js
 * REST APIs
@@ -54,10 +58,12 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 * Postman
 * Jira
 * Linux
+* Intellij
+  
 
 ### 💬 Ask Me About
 
-**React, React Native, JavaScript, TypeScript, Redux, Node.js, Express.js, REST APIs**
+**React, React Native, JavaScript, TypeScript, Redux, Node.js, Express.js, Java, Spging Boot, REST APIs**
 
 ### 📌 Featured Projects
 
