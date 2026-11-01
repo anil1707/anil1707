@@ -1,8 +1,8 @@
 # Hi 👋, I'm Anil Kumar Yadav
 
-### Software Engineer | React.js | JavaScript | TypeScript | Node.js | Java | Spring Boot | Microservices | Spring Security | Kafka | Multithreading
+### Java Fullstack Developer | Java | Spring Boot | Microservices | Spring Security | Kafka | Multithreading | React.js | JavaScript | TypeScript | Node.js |
 
-I'm a **Software Engineer with 4+ years of experience** building scalable web and mobile applications using **React.js, React Native, JavaScript, TypeScript, Redux Toolkit, Node.js, and Express.js, Java, Spring Boot, Micorservices**.
+I'm a **Software Engineer with 4+ years of experience** building scalable web and mobile applications using **Java, Spring Boot, Micorservices | React.js, React Native, JavaScript, TypeScript, Redux Toolkit, Node.js, and Express.js, **.
 
 Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise financial applications for Investor and Distributor platforms.
 
@@ -10,7 +10,7 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 
 * 🔭 Currently working on **Motilal Oswal AMC Datalake**
 * 💻 Building scalable applications using **React.js, TypeScript, Redux Toolkit, and TanStack Query**
-* 🔧 Working with **Node.js, Express.js, Java, Spring boot, microservices, REST APIs, and MongoDB**
+* 🔧 Working with **Java, Spring boot, microservices, REST APIs, and PostgreSQL**
 * 🧩 Building reusable components, complex forms, API integrations, and scalable application architectures
 
 ### 🛠️ Tech Stack
@@ -39,15 +39,18 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 * Spring Boot
 * Multithreading
 * Microservices
+* Kafka
 * Node.js
 * Express.js
 * REST APIs
 * JWT Authentication
+* Spring Security
 
 **Database**
 
 * MongoDB
-* SQL
+* PostgreSQL
+* 
 
 **Tools & DevOps**
 
@@ -63,7 +66,7 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 
 ### 💬 Ask Me About
 
-**React, React Native, JavaScript, TypeScript, Redux, Node.js, Express.js, Java, Spging Boot, REST APIs**
+**Java, Spging Boot, REST APIs, Kafka, Rest API, Spring Security, React, React Native, JavaScript, TypeScript, Redux, Node.js, Express.js**
 
 ### 📌 Featured Projects
 
