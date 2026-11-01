@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anil Kumar Yadav
 
-### Software Engineer | React.js | JavaScript | TypeScript | Node.js | Java | Spring Boot | Microservices
+### Software Engineer | React.js | JavaScript | TypeScript | Node.js | Java | Spring Boot | Microservices | Spring Security | Kafka | Multithreading
 
 I'm a **Software Engineer with 4+ years of experience** building scalable web and mobile applications using **React.js, React Native, JavaScript, TypeScript, Redux Toolkit, Node.js, and Express.js, Java, Spring Boot, Micorservices**.
 
