@@ -1,27 +1,46 @@
 # Hi 👋, I'm Anil Kumar Yadav
 
-### Java Fullstack Developer | Java | Spring Boot | Microservices | Spring Security | Kafka | Multithreading | React.js | JavaScript | TypeScript | Node.js |
+### Java Full Stack Developer | Spring Boot | Microservices | Spring Security | JWT | Kafka | REST APIs | React.js
 
-I'm a **Software Engineer with 4+ years of experience** building scalable web and mobile applications using **Java, Spring Boot, Micorservices | React.js, React Native, JavaScript, TypeScript, Redux Toolkit, Node.js, and Express.js, **.
+I'm a **Java Full Stack Developer with 4+ years of experience**, strongest in backend development with **Java, Spring Boot, Spring Security, and REST APIs**. I build secure, database-driven services for enterprise financial applications, and I use **React.js** to take features from API to UI.
 
-Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise financial applications for Investor and Distributor platforms.
+Currently working on **Motilal Oswal AMC**, contributing to investor and distributor platforms that serve **9.5M+ users**.
 
 ### 🚀 What I'm Working On
 
-* 🔭 Currently working on **Motilal Oswal AMC Datalake**
-* 💻 Building scalable applications using **React.js, TypeScript, Redux Toolkit, and TanStack Query**
-* 🔧 Working with **Java, Spring boot, microservices, REST APIs, and PostgreSQL**
-* 🧩 Building reusable components, complex forms, API integrations, and scalable application architectures
+* 🔭 Enterprise financial platform for **Motilal Oswal AMC**
+* 🔐 Authentication and authorization with **Spring Security and JWT**
+* 💸 Mutual fund transaction workflows (purchase, transfer, withdrawal, top-up, step-up) and **Razorpay** payment integration in **Spring Boot**
+* 🔧 Building **REST APIs and microservices** with **Java, Spring Boot, Spring Data JPA, and PostgreSQL**
+* 🧩 React.js frontends with **TypeScript, Redux Toolkit, and TanStack Query**
 
 ### 🛠️ Tech Stack
+
+**Backend**
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Spring Security
+* JWT Authentication
+* Microservices
+* Kafka
+* Multithreading
+* REST APIs
+* Razorpay payment integration
+
+**Database**
+
+* PostgreSQL
+* MongoDB
 
 **Frontend**
 
 * React.js
-* React Native
+* Next.js
 * JavaScript
 * TypeScript
-* Next.js
 * HTML5
 * CSS3
 * Material UI
@@ -33,25 +52,6 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 * TanStack Query
 * Context API
 
-**Backend**
-
-* Java
-* Spring Boot
-* Multithreading
-* Microservices
-* Kafka
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* Spring Security
-
-**Database**
-
-* MongoDB
-* PostgreSQL
-* 
-
 **Tools & DevOps**
 
 * Git
@@ -61,17 +61,16 @@ Currently working on **Motilal Oswal AMC Datalake**, contributing to enterprise 
 * Postman
 * Jira
 * Linux
-* Intellij
-  
+* IntelliJ IDEA
 
 ### 💬 Ask Me About
 
-**Java, Spging Boot, REST APIs, Kafka, Rest API, Spring Security, React, React Native, JavaScript, TypeScript, Redux, Node.js, Express.js**
+**Java, Spring Boot, Spring Security, JWT, REST APIs, Microservices, Kafka, React.js, TypeScript, Redux**
 
 ### 📌 Featured Projects
 
-* **Manage Trip** — Full-stack trip and expense management application built with React Native, Node.js, Express.js, and MongoDB.
 * **Blog Application** — Full-stack blogging platform with CRUD operations and JWT-based authentication.
+* **Manage Trip** — Full-stack trip and expense management application built with React Native, Node.js, Express.js, and MongoDB.
 * **Allocation Management System** — React.js application with protected routing, lazy loading, reusable components, Redux Toolkit, and REST API integration.
 
 ### 📫 Connect With Me
